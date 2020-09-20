@@ -1,0 +1,2 @@
+# tactical-phonenumber-info-scraper
+usage: 'python3 tactical-scraper.py' &amp; then(only enter the local-format for a phonenumber): example:'8163586822' Ouput results are JSON format: {'valid': True, 'number': '18163586822', 'local_format': '8163586822', 'international_format': '+18163586822', 'country_prefix': '+1', 'country_code': 'US', 'country_name': 'United States of America', 'location': 'Kansascity', 'carrier': '', 'line_type': 'landline'}
